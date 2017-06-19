@@ -1,3 +1,3 @@
-[v0.0.2](https://github.com/littleflute/Instructional-films/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/Instructional-films/edit/master/README.md)
 
-[1g384-159M](1g384)
+[Haircutting at home: 1g384-159M](1g384)
